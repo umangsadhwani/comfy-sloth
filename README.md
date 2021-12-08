@@ -1,5 +1,7 @@
 ## Notes
 
+you can view the project on netlify on url :- https://umang-comfy-sloth-project.netlify.app/
+
 #### Older React Version
 
 ```
